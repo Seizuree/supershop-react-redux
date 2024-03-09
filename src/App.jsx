@@ -6,7 +6,7 @@ import ProductDetail from './containers/ProductDetail'
 
 function App() {
   return (
-    <div className=''>
+    <div>
       <BrowserRouter>
         <Header />
         <Routes>
